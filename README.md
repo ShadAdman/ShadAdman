@@ -13,9 +13,15 @@ I'm active on github only for contribution into opensource world. Everything I k
 Currenlty focusing on kotlin Multiplatform & embeding non kotlin languages/platforms with kotlin, especaily low level languages & talking to hardware. I'm also facinated by on device AI.
 </p>
 
-<p align="center"><b>KMP == less code == less costs</b></p>
+<p align="left"><b>KMP == less code == less costs</b></p>
 
-  
+
+### Publications
+
+- [Learn about Edge AI like a child](https://medium.com/@adman.shadman/learn-about-edge-ai-like-a-child-23b0c7007890)
+- [Learn Kotlin Cinterop like a child](https://medium.com/dev-genius/learn-kotlin-cinterop-like-a-child-2f4c62f9f0bd)
+- [Rust KMP: System performance meets multiplatform delivery](https://medium.com/dev-genius/rust-kmp-system-performance-meets-multiplatform-delivery-b403c2a4f6fc)
+
 ###
 
 <div align="center">
