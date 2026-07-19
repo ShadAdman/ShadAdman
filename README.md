@@ -8,9 +8,11 @@
 <p align="justify">
 I fell in love with coding where intrdoduced to C++ in studants time. I did a lot of work with Android & Kotlin Multiplatform, specializing in domains such as Health Tech,Degital Retails, Trading, Fintech & iGaming. 
 
+I'm facinated by on device AI. Give me a quirky smart home gadget or an old Raspberry Pi, and I can make it intelligent without relying on the cloud or the internet.
+
 I'm active on github only for contribution into opensource world. Everything I know comes from opensource, so i will give back as much as i can.
 
-Currenlty focusing on kotlin Multiplatform & embeding non kotlin languages/platforms with kotlin, especaily low level languages & talking to hardware. I'm also facinated by on device AI.
+Currenlty focusing on kotlin Multiplatform & embeding non kotlin languages/platforms with kotlin, especaily low level languages & talking to hardware.
 </p>
 
 <p align="left"><b>KMP == less code == less costs</b></p>
