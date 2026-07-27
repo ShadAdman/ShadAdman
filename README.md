@@ -15,9 +15,9 @@ I'm active on github only for contribution into opensource world. Everything I k
 Currenlty focusing on kotlin Multiplatform & embeding non kotlin languages/platforms with kotlin, especaily low level languages & talking to hardware.
 </p>
 
-<p align="left"><b>KMP == less code == less costs</b></p>
+<p align="right"><b>KMP == less code == less costs</b></p>
 
-## My Newest Creation
+### My Newest Creations
 - [Vectora - On-Device Semantic Search for Mobile Applications ](https://vectora.cam/)
 
 ### Publications
