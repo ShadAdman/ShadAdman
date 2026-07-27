@@ -17,6 +17,8 @@ Currenlty focusing on kotlin Multiplatform & embeding non kotlin languages/platf
 
 <p align="left"><b>KMP == less code == less costs</b></p>
 
+## My Newest Creation
+- [Vectora - On-Device Semantic Search for Mobile Applications ](https://vectora.cam/)
 
 ### Publications
 
