@@ -19,6 +19,7 @@ Currenlty focusing on kotlin Multiplatform & embeding non kotlin languages/platf
 
 ### My Newest Creations
 - [Vectora - On-Device Semantic Search for Mobile Applications ](https://vectora.cam/)
+- [wakem - Personal predictive AI warmup CLI ](https://wakem.site/)
 
 ### Publications
 
