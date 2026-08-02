@@ -6,7 +6,7 @@
 <br>
 <br>
 <p align="justify">
-I fell in love with coding where intrdoduced to C++ in studants time. I did a lot of work with Android & Kotlin Multiplatform, specializing in domains such as Health Tech,Degital Retails, Trading, Fintech & iGaming. 
+I fell in love with coding where intrdoduced to C++ in studants time and soon i found myself digging into Android. I did a lot of work with Android & Kotlin Multiplatform, specializing in domains such as Health Tech,Degital Retails, Trading, Fintech & iGaming. 
 
 I'm facinated by on device AI. Give me a quirky smart home gadget or an old Raspberry Pi, and I can make it intelligent without relying on the cloud or the internet.
 
